@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to a paper entituled, Reasons against reducing interest to four per cent.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17138</idno><idno type="EEBO-CITATION">99894225</idno>
+  <idno type="VID">202008</idno>
+  <idno type="EEBO-PROQUEST">2240936751</idno>
+  
+            <idno type="STC">Wing A3330</idno>
+            <idno type="STC">Interim Tract Supplement Guide 8223.e.7.[23]</idno>
+            <idno type="STC">ESTC T227407</idno>
+            <idno type="PROQUEST">ocm99894225</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894225e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 202008)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C30:2[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to a paper entituled, Reasons against reducing interest to four per cent.</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?:</pubPlace>
+                  <date>between 1694 and 1714?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to 'Reasons humbly offered against reducing the interest of money to four pounds per centum per annum'.</note>
+                  <note>Dated 1714? by ESTC; 1694? by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Reasons humbly offered against reducing the interest of money to four pounds per centum per annum. --  Early works to 1800.</term>
+               <term type="topical_term">Interest rates --  Early works to 1800.</term>
+               <term type="topical_term">Money --  England --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Anne, 1702-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="response">
+            <pb n="1" facs="tcp:202008:1"/>
+            <head>AN ANSWER To a PAPER Entituled, REASONS <hi>against Reducing Interest to Four</hi> per Cent.</head>
+            <p>HAD the Author of that Paper read <hi>the Letter to a Friend against Usurie,</hi> he might have observed his own Reasons much better urged, and as well answered by Sir <hi>Tho. Culpeper</hi> Seventy Years since, being the time when Interest was re<g ref="char:EOLhyphen"/>duced from Ten to Eight, which might have prevented both our Repetitions.</p>
+            <p>But, since he either did not read the Letter, or was not satisfied with the An<g ref="char:EOLhyphen"/>swers, it will not be a greater mispence of time to answer the Reasons, than it was again to write them.</p>
+            <p>His first Reason against Reducing Interest from Six to Four is, <hi>That it will obstruct and hinder Trade;</hi> for many Traders borrow Money at Interest to carry on their Trade; and he sup<g ref="char:EOLhyphen"/>poses that no Man will lend Money to Tradesmen upon personal Security, but that all Men will keep their Moneys by them for a better Advantage.</p>
+            <p>But the Reason why any Man should keep his Money, and expect a better Advantage, when the Law has reduced Interest to 4 <hi>per Cent.</hi> more than now it is at 6 <hi>per Cent.</hi> he doth not give.</p>
+            <p>For why should any Man lock up his Money, rather than take 4 <hi>per Cent.</hi> It is no contemptible Interest. It is more than Land produceth? And what greater Advantage can any Man then ex<g ref="char:EOLhyphen"/>pect, unless it be to lay it out upon Trade? If so, it will rather promote Trade, than obstruct or hinder it; and therefore it is used by Sir <hi>Tho. Culpeper,</hi> and others that have wrote on that Sub<g ref="char:EOLhyphen"/>ject, for an Argument for the Lowering of Interest, because it will promote and increase Trade: As it is evident in those Countries, <hi>viz.</hi> in <hi>Holland</hi> and <hi>Italy,</hi> where Money is at 3 <hi>per Cent.</hi> Trade flourishes, but in <hi>Spain,</hi> and other places where the Interest of Money is at 10 and 12 <hi>per Cent.</hi> the People are poor, and have but little Trade.</p>
+            <p>His second Argument is, <hi>That the reducing of Interest to</hi> 4 per Cent. <hi>will sink the real Value of the Principle one Third;</hi> So that every Man whose Estate is in Money, would, by such a Law, loose a Third part of it, which he believes to be as great a Hardship, as to take away a Third part of every Man's Land of Inheritance: But this is a great Mistake; for the Lowering of the Inter<g ref="char:EOLhyphen"/>est a Third, will not lessen the Value of the Principal; for a 100 <hi>l.</hi> will buy as much Goods (and of some sort more) after such a Law is made, as it will now; It will buy as much <hi>Corn, Wool, Cloth,</hi> and all things else, except Land: It is true, a 100 <hi>l.</hi> will not buy so much Land by one Third, as it did before; for 5 <hi>l.</hi> a Year in Land of Inheritance being now worth 100 <hi>l.</hi> will then be worth 150 <hi>l.</hi> and there is the greatest Reason and Justice that it should be so; for then the Exchange will be even betwixt Land, Money, or Goods; for why should any Man give 6 <hi>per Cent.</hi> for Money or Goods, when the Land will bring in but Four? Why should a Gentle<g ref="char:EOLhyphen"/>man pay 2 <hi>per Cent.</hi> more for all the Goods he buyes of the Merchant, to wit, for <hi>Cloth, Silks, Linnen, &amp;c.</hi> more than the Merchant gives for his <hi>Wool</hi> and <hi>Corn;</hi> for the Money that Gentle<g ref="char:EOLhyphen"/>men pay Interest for, is laid out to pay for Goods they use; so that Money is but the Rent of wrought Stock, as <hi>Corn</hi> and <hi>Wool</hi> is the Rent of the Land. And it is much to be wondered at, that since the Nobility and Gentery, having the greatest share in the Legislative-Power, should not have given themselves the leisure, before this time, to have reflected upon this great Odds in the Exchange, and have made a Law to regulate the Balance. It would have prevented many large Farms and noble Mannors to have been devoured by <hi>Taylors, Mercers,</hi> and other Traders.</p>
+            <p>His third Argument is, <hi>That if Interest be reduced, it will be a Prejudice to Widowes, Orphans, and others, whose whole Estates are in Money;</hi> for that the Interest of their Portion or Moneys will
+<pb n="2" facs="tcp:202008:2"/>not be sufficient to maintain them; those that have Threescore Pounds a Year for a Thousand Pounds, will then have but Forty: This is the only Objection of moment that ever I have heard of against this Law; yet if it be consider'd, it hath not that Force nor Pitty in it as it seems at first sight to have; first they are few in number in respect of the whole Nation; next, as to the Orphans, their Portions in Money will be of the same Esteem, and of the same Va<g ref="char:EOLhyphen"/>lue to buy every thing, except Lands, and they were never given them with that intent; for then their Parents might as well have given them Lands: So that it is only the Income of the Portions that is lessened, and that is but for a short time, till the young Men set up their Trades, or till the Maidens or Widowes marry; and if in the interim they spend Ten Pounds a Year less, the first may perhaps make better Tradesmen or Merchants, and the latter make better Wives; Thrift and good Housewifery will do neither of them harm.</p>
+            <p>But this will not be the Case neither, for the Lowering of Interest does chiefly fall upon Foreign Stock or Wares, and the Merchant may afford to sell his Goods Two <hi>per Cent.</hi> cheaper, and will get as much by them as he did when Money was at Six <hi>per Cent.</hi> and Three parts in Four of every Gentleman's Expence is in Foreign Wares, either in <hi>Wine, Spices, Silks, Linnen,</hi> and other Manufactures; in such Goods there will be Two <hi>per Cent.</hi> saved in the Price; so that they may then maintain themselves almost as well with Forty Pounds a Year, as they do now with Threescore.</p>
+            <p>Fourthly, <hi>If Interest be reduced to Four</hi> per Cent. <hi>a greater part of the Inheritance of Gentle<g ref="char:EOLhyphen"/>mens Estates that have Daughters, will be lessen'd and more incumbred;</hi> Because, he supposing the the Value of the Principal Money being sunk, they must give greater Portions: But this is grounded upon a Mistake which is before answered; for a Thousand Pounds will be as much valued by a Trader as it is now, and every Gentleman will be better able to pro<g ref="char:EOLhyphen"/>vide Portions for his younger Children, because his Land will yield a Third part more in value; so that the Gentleman's Estate in Lands of Inheritance will be less incumbred than before.</p>
+            <p>Fifthly, <hi>If Interest be reduced to Four</hi> per Cent. <hi>it will make Money scarce, as he believes, and be only advantageous to Scriveners, who will have more for Procuration and Continuation.</hi> If this should happen, though there is no reason for it, yet the Borrower may afford to give more to the Scrivener; when he pays less to the Userer. But why any Man should be<g ref="char:EOLhyphen"/>lieve Money should be scarce, when such a Law doth not lessen the Money, though it does the Interest. But the contrary is most true, the Lowering of Interest will make Money more plentiful; for a low Interest increaseth Trade, and Trade increaseth Money; for Bul<g ref="char:EOLhyphen"/>lion is a Foreign Commodity, and brought in by Trade.</p>
+            <p>The last Argument is, <hi>That the Lowering of Interest will not raise the Rent of the Land; and although, as he confesseth, it will raise the Value of Land in Sale, yet the Value of Money being thereby lessened, as he conceives, there will be a necessity of greater Portions for younger Children; so that the Gentry will have no advantage by such a Law.</hi> This is a greater Mistake than all the rest; for the Rent of the Land will be raised as well as the Price; for the Interest of the Stock must be reckoned to make up the Rent of the Land. So that the takeing of Two <hi>per Cent.</hi> from the Stock, being added to the Rent of the Land, so much is the Rent of the Land raised. A Farm that is now worth Fifty Pounds <hi>per Annum,</hi> and requires Three Hundred Pounds Stock, will be worth Fifty Six Pounds <hi>per Annum,</hi> when Interest is reduced to Four <hi>per Cent.</hi> there being Six Pounds a Year taken from the Stock and added to the Rent.</p>
+            <p>To conclude, No Law can be of greater Advantage to the Nation, than the Law that will reduce Interest from Six to Four <hi>per Cent.</hi> It will produce the most general Good with the least private Disadvantage; and it being so early proposed this Session in the Honorable the House of Commons, and so often taken notice of in the Printed Votes, it was believed by most without Doors, that it was designed by the Wisdom of this present Parliament, as a Law to make some recompence for those great Taxes and heavy Impositions which the necessity of the publick Affairs require them to lay on the People. And since the Advan<g ref="char:EOLhyphen"/>tages of this Law hath been all over the Nation generally debated, there seems no Law, by the general Suffrage of the People, that will be more welcome, or that can make them a more general Satisfaction for such great Taxes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:202008:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
